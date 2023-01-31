@@ -1,2 +1,2 @@
 # movie-kafka-pulse-api
-Springboot Java API for publishes movie events to kafka topic
+The Springboot Java API posts movie events to kafka topics, after which movie-rule-engine analyzes the events and calculates likelihood of fraud percentages.
